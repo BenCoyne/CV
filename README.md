@@ -1,6 +1,8 @@
 ## Ben Coyne
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+An inquizitive former musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my passion for creativity, team work and  a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am passionate about the ability tech has to cross industry, particularly the intersection between music and coding. 
+
+I am recently started a 16-week bootcamp at Makers Academy where I look forward to further developing the fundemental skills and best practices in software engineering.
 
 ## Projects
 
@@ -11,15 +13,17 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
+**Coyne & Co. Surveyors** (2016-2020)  
 _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
+**Folkies Music** (2012-2016)  
 _Your job title_
 
 - Any experience relevent to software development
+
+**Freelance Musician** (2010-present) 
 
 ## Skills
 
@@ -53,25 +57,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (November 2021 - March 2022)
+
+Makers Academy is a highly selective coding bootcamp who's aim is to produce self-sufficient and driven programmers. During the 16 weeks we covered:
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The Institue of Contemporary Music Performance (2008-2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bmus(Hons) Popular Music Performance
+- 2:1
+- Rockschool Level 6 Diploma in Music Teaching 
+- Higher Diploma in Popular Music Performance
 
-#### Any other qualifications
+#### Coding Certifications (2021)
 
-That in some arguable way make you a better software developer or well-rounded person
+- PCAP: Programming Essentials in Python Certification (Python Institute)
+- The Complete Python Course | Learn Python by Doing (Udemy)
+- Scientific Computing with Python (freecodecamp)
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Music: I am a keen songwriter/musician and love to play or make music whenever possible - particularly in the studio! 
+
+- Exercise: A long walk or a gym session is great for clearing your head after a day in front of the computer.
+
+- Food: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations! 
