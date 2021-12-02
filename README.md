@@ -1,8 +1,8 @@
 ## Ben Coyne
 
-An inquizitive former musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my passion for creativity, team work and  a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am passionate about the ability tech has to cross industry, particularly the intersection between music and coding. 
+An inquizitive former musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
 
-I am recently started a 16-week bootcamp at Makers Academy where I look forward to further developing the fundemental skills and best practices in software engineering.
+I recently started a 16-week bootcamp at Makers Academy where I look forward to further developing the fundemental skills and best practices in software engineering.
 
 ## Projects
 
@@ -14,16 +14,26 @@ I am recently started a 16-week bootcamp at Makers Academy where I look forward 
 ## Work Experience
 
 **Coyne & Co. Surveyors** (2016-2020)  
-_Your job title_
+_Office Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+A multi-faceted role consisting of various supporting duties to all members of staff; particularly the Managing Director and Senior Surveyors.
+
+- Providing extensive administrative support inclusive of internal and external meetings.
+- Assistant to the Senior Surveyors on site visits including Scheduling and Building inspections.
+- Liaising with External IT Support to ensure the quick resolution of any IT issues as well as building strategies to improve office efficiency.
+- Liaising with the external bookkeeper and accounts regarding rent/service charge payments and invoices for the Property Management element within the company.
+- Acted as first point of contact in assisting potential new clients.
+- Management of filing system / data and records.
+- Fire Safety Officer.
 
 **Folkies Music** (2012-2016)  
-_Your job title_
+_Sales Associate_
 
-- Any experience relevent to software development
+- Providing excellent customer service whilst selling a variety of high-end instruments, musical accessories and books. This job role required an extensive knowledge of musical equipment as well as the skills to clearly demonstrate a wide range of products.
 
 **Freelance Musician** (2010-present) 
+
+- Being a freelance musician requires vast amounts of drive and resiliance. Though it is vital to master your instrument(s) and creativity skills, arguably it is equally important to develop an ability to think on your feet and react to last minute chanegs, to learn quickly and to seemlessly enter a group dynamic and be ready to not only contribute, but listen and adapt.
 
 ## Skills
 
@@ -40,13 +50,13 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Creative
 
 - Experience
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+#### Self-Motivated
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -82,8 +92,8 @@ Makers Academy is a highly selective coding bootcamp who's aim is to produce sel
 
 ## Hobbies
 
-- Music: I am a keen songwriter/musician and love to play or make music whenever possible - particularly in the studio! 
+- **Music**: I am a keen songwriter/musician and love to play or make music whenever possible - particularly in the studio.
 
-- Exercise: A long walk or a gym session is great for clearing your head after a day in front of the computer.
+- **Exercise**: A long walk or a gym session is great for clearing your head after a day in front of the computer.
 
-- Food: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations! 
+- **Food**: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations! 
