@@ -1,6 +1,6 @@
 ## Ben Coyne
 
-An inquizitive former musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
+An inquizitive musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
 
 I recently started a 16-week bootcamp at Makers Academy where I look forward to further developing the fundemental skills and best practices in software engineering.
 
