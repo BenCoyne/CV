@@ -71,10 +71,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Makers Academy is a highly selective coding bootcamp who's aim is to produce self-sufficient and driven programmers. During the 16 weeks we covered:
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Phaser
+- RSpec, Jest
 
 #### The Institue of Contemporary Music Performance (2008-2012)
 
