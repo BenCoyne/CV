@@ -9,7 +9,7 @@ I recently completed a 16-week bootcamp at Makers Academy and I look forward to 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 |**<a href="https://github.com/BenCoyne/RPG-Game">RPG Game</a>**            | A top-down RPG webapp built in Phaser 3. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |
-| **<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template">MyAce</a>** | A social media webapp. | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions, Rspec, Capybara               |
+| **<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template">MyAce</a>** | A social media webapp. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |
 
 If you would like to see more, please visit my <a href="https://github.com/BenCoyne">GitHub</a>
 
