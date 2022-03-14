@@ -4,8 +4,6 @@ An inquizitive musician turned full-stack junior web developer. Though my route 
 
 I recently completed a 16-week bootcamp at Makers Academy and I look forward to further developing the fundemental skills and best practices in software engineering that I gained throughout the course.
 
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Phaser 3, Python
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -41,35 +39,17 @@ _Sales Associate_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
+**Tech Realated Skills** :<i> Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Phaser 3, Python , Git, Debugging, TDD, OOP</i>
 
 #### Creative
 
-
 #### Self-Motivated
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Quick-Learner
 
 #### Team Player
 
+Collaboraing is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furtehring their understanding if necessary.
 
 ## Education
 
