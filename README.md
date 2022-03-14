@@ -2,14 +2,18 @@
 
 An inquizitive musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
 
-I recently started a 16-week bootcamp at Makers Academy where I look forward to further developing the fundemental skills and best practices in software engineering.
+I recently completed a 16-week bootcamp at Makers Academy and I look forward to further developing the fundemental skills and best practices in software engineering that I gained throughout the course.
+
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Phaser 3, Python
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|**<a href="https://github.com/BenCoyne/RPG-Game">RPG Game</a>**            | A top-down RPG webapp built in Phaser 3. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |
+| **<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template">MyAce</a>** | A social media webapp. | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions, Rspec, Capybara               |
+
+If you would like to see more, please visit my <a href="https://github.com/BenCoyne">GitHub</a>
 
 ## Work Experience
 
@@ -52,9 +56,6 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Creative
 
-- Experience
-- Achievements
-- Evidence (STAR)
 
 #### Self-Motivated
 
@@ -65,6 +66,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Quick-Learner
+
+#### Team Player
+
+
 ## Education
 
 #### Makers Academy (November 2021 - March 2022)
@@ -73,8 +79,8 @@ Makers Academy is a highly selective coding bootcamp who's aim is to produce sel
 
 - OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript, Phaser
-- RSpec, Jest
+- Ruby, Rails, JavaScript, Phaser3
+- RSpec, Capybara, Jest
 
 #### The Institue of Contemporary Music Performance (2008-2012)
 
@@ -96,4 +102,6 @@ Makers Academy is a highly selective coding bootcamp who's aim is to produce sel
 
 - **Exercise**: A long walk or a gym session is great for clearing your head after a day in front of the computer.
 
-- **Food**: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations! 
+- **Food**: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations!
+
+- **Learning**: I have a passion for learning new skills and developing pre-existing skills. I'm currently readind <i>The Pragmatic Programmer</i>.   
