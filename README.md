@@ -49,7 +49,7 @@ _Sales Associate_
 
 #### Team Player
 
-Collaboraing is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furtehring their understanding if necessary.
+Collaboraing is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furthering their understanding if necessary.
 
 ## Education
 
