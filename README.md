@@ -1,15 +1,16 @@
 ## Ben Coyne
 
-An inquizitive musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
+An inquisitive musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
 
 I recently completed a 16-week bootcamp at Makers Academy and I look forward to further developing the fundemental skills and best practices in software engineering that I gained throughout the course.
 
 ## Projects
 
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-|**<a href="https://github.com/BenCoyne/RPG-Game">RPG Game</a>**            | A top-down RPG webapp built in Phaser 3. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |
-| **<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template">MyAce</a>** | A social media webapp. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |
+|<a href="https://github.com/BenCoyne/RPG-Game"><img align="bottom" alt="myAce" width="86px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>           | A top-down RPG webapp built in Phaser 3. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |
+|<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="76px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |
 
 If you would like to see more, please visit my <a href="https://github.com/BenCoyne">GitHub</a>
 
