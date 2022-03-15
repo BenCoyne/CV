@@ -43,13 +43,21 @@ _Sales Associate_
 
 #### Creative
 
+I love to incoporate creativity into my work whenever it is needed. Whether it is an out the box solution to a tricky challenge or adding an exciting element to my code to enhance the user experience, I have been told that I excel in applying the intricate touches that can make a project exciting. An example of this can be heard in <i>RPG GAME</i>. Though not purely a programming issue, I composed original music as well as a variety of sound effects that would be triggered depending on how the game was played. This brought a much fuller overall experience to the final project.
+
 #### Self-Motivated
+
+Makers Academy is a highly selective 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my fre time studying code. This attitude has helped me to manage the various tasks and challenges of the course. 
+
 
 #### Quick-Learner
 
+My degree required that I learn a variety of musical material, new techniques, music technology and occasionally instruments in a very short time frame. I believe that I have maintained the ability to learn quickly and demonstrated this throughout Makers. Our second Project, <i>MyAce</i>, was built using Ruby on Rails. The time-frame for this project was approximatley 10 days and our team had no prior experience using the framework. I am pleased to say that I was able to pick Rails up with realtivle ease. This allowed me to share my knowlege with my team mates and help to deliver a successful outcome.
+
+
 #### Team Player
 
-Collaboraing is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furthering their understanding if necessary.
+Collaborating is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furthering their understanding if necessary.
 
 ## Education
 
@@ -84,4 +92,4 @@ Makers Academy is a highly selective coding bootcamp who's aim is to produce sel
 
 - **Food**: Cooking and Eating. Love finding new places to eat - let me know if you have any recomendations!
 
-- **Learning**: I have a passion for learning new skills and developing pre-existing skills. I'm currently readind <i>The Pragmatic Programmer</i>.   
+- **Learning**: I have a passion for learning new skills and developing pre-existing skills. I'm currently reading <i>The Pragmatic Programmer</i>.   
