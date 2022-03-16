@@ -1,5 +1,7 @@
 ## Ben Coyne
 
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [HOBBIES](#hobbies) | [LINKEDIN](https://www.linkedin.com/in/ben-coyne-925641223/)
+
 An inquisitive musician turned full-stack junior web developer. Though my route into the tech sector is far from traditional, my love of creativity, team work and a keen attention to detail are well suited to many of the daily challenges in this exciting field. I am fascinated by the ability tech has to cross industry.
 
 I recently completed a 16-week bootcamp at Makers Academy where I developed a passion for writing clean, test-driven code and I look forward to further refining the software engineering skills and industry practices that I gained throughout the course.
