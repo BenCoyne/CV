@@ -10,7 +10,7 @@ I recently completed a 16-week bootcamp at Makers Academy where I developed a pa
 | Name                         | Description       | Tech/tools        |Repo/Website|
 | ---------------------------- | ----------------- | ----------------- |----|
 |<a href="https://github.com/BenCoyne/RPG-Game"><img align="bottom" alt="myAce" width="400px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>| A Pinkman's Journey is a top-down RPG webapp built in Phaser 3. The player must find a series of clues before the clock runs out. Tip: Don't step in a wormhole! | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |https://lonely-hearts-club.herokuapp.com/game
-|<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="400px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp loosely based on facebook. Users can create accounts, edit their avatar, post on a main wall and post on eachother's walls. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |https://myace.herokuapp.com
+|<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="400px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp loosely based on facebook. Users can create accounts, edit their avatar, post on a main wall and post on each others' walls. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |https://myace.herokuapp.com
 
 If you would like to see more, please visit my <a href="https://github.com/BenCoyne">GitHub</a>
 
@@ -36,7 +36,7 @@ _Sales Associate_
 
 **Freelance Musician** (2010-present) 
 
-- Being a freelance musician requires vast amounts of drive and resiliance. Though it is vital to master your instrument(s) and creativity skills, arguably it is equally important to develop an ability to think on your feet and react to last minute chanegs, to learn quickly and to seemlessly enter a group dynamic and be ready to not only contribute, but listen and adapt.
+- Being a freelance musician requires vast amounts of drive and resiliance and commitment. Though it is vital to master your instrument(s) and creativity skills, it is equally important to develop an ability to think on your feet and react to last minute changes. You must also be able to learn quickly and to seemlessly enter a group dynamic and be ready to not only contribute, but listen and adapt.
 
 ## Skills
 
@@ -44,17 +44,15 @@ _Sales Associate_
 
 #### Creative
 
-I love to incoporate creativity into my work whenever it is needed. Whether it is an out the box solution to a tricky challenge or adding an exciting element to my code to enhance the user experience, I have been told that I excel in applying the intricate touches that can make a project exciting. An example of this can be heard in <i>RPG GAME</i>. Though not purely a programming issue, I composed original music as well as a variety of sound effects that would be triggered depending on how the game was played. This brought a much fuller overall experience to the final project.
+I love to incoporate creativity into my work whenever it is needed. Whether it is an 'out of the box' solution to a tricky challenge or adding an exciting element to my code to enhance the user experience, I have been told that I excel in applying the intricate touches that can make a project come to life. An example of this can be heard in <i>A Pinkman's Journey</i>. Though not purely a programming issue, I composed original music as well as a variety of sound effects that would be triggered depending on how the game was played. This brought a much fuller overall experience to the final project.
 
 #### Self-Motivated
 
-Makers Academy is a highly selective 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my fre time studying code. This attitude has helped me to manage the various tasks and challenges of the course. 
-
+Makers Academy is a highly selective 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course. 
 
 #### Quick-Learner
 
 My degree required that I learn a variety of musical material, new techniques, music technology and occasionally instruments in a very short time frame. I believe that I have maintained the ability to learn quickly and demonstrated this throughout Makers. Our second Project, <i>MyAce</i>, was built using Ruby on Rails. The time-frame for this project was approximatley 10 days and our team had no prior experience using the framework. I am pleased to say that I was able to pick Rails up with realtivle ease. This allowed me to share my knowlege with my team mates and help to deliver a successful outcome.
-
 
 #### Team Player
 
@@ -73,8 +71,7 @@ Makers Academy is a highly selective coding bootcamp who's aim is to produce sel
 
 #### The Institue of Contemporary Music Performance (2008-2012)
 
-- Bmus(Hons) Popular Music Performance
-- 2:1
+- BMus(Hons) Popular Music Performance, 2:1
 - Rockschool Level 6 Diploma in Music Teaching 
 - Higher Diploma in Popular Music Performance
 
