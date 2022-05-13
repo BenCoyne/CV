@@ -16,6 +16,51 @@ I recently completed a 16-week bootcamp at Makers Academy where I developed a pa
 
 If you would like to see more, please visit my <a href="https://github.com/BenCoyne">GitHub</a>
 
+## Education
+
+#### Makers Academy (November 2021 - March 2022)
+
+Makers Academy is a highly selective coding bootcamp who's aim is to produce self-sufficient and driven programmers. During the 16 weeks we covered:
+
+- OOP, TDD, MVC
+- Agile/XP
+- Ruby, Rails, JavaScript, Phaser3
+- RSpec, Capybara, Jest
+
+#### Coding Certifications (2021)
+
+- PCAP: Programming Essentials in Python Certification (Python Institute)
+- The Complete Python Course | Learn Python by Doing (Udemy)
+- Scientific Computing with Python (freecodecamp)
+
+#### The Institue of Contemporary Music Performance (2008-2012)
+
+- BMus(Hons) Popular Music Performance, 2:1
+- Rockschool Level 6 Diploma in Music Teaching 
+- Higher Diploma in Popular Music Performance
+
+
+## Skills
+
+**Tech Realated Skills** :<i> Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Phaser 3, Python , Git, Debugging, TDD, OOP</i>
+
+#### Creative
+
+I love to incoporate creativity into my work whenever it is needed. Whether it is an 'out of the box' solution to a tricky challenge or adding an exciting element to my code to enhance the user experience, I have been told that I excel in applying the intricate touches that can make a project come to life. An example of this can be heard in <i>A Pinkman's Journey</i>. Though not purely a programming issue, I composed original music as well as a variety of sound effects that would be triggered depending on how the game was played. This brought a much fuller overall experience to the final project.
+
+#### Self-Motivated
+
+Makers Academy is a highly selective 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course. 
+
+#### Quick-Learner
+
+My degree required that I learn a variety of musical material, new techniques, music technology and occasionally instruments in a very short time frame. I believe that I have maintained the ability to learn quickly and demonstrated this throughout Makers. Our second Project, <i>MyAce</i>, was built using Ruby on Rails. The time-frame for this project was approximatley 10 days and our team had no prior experience using the framework. I am pleased to say that I was able to pick Rails up with realtivle ease. This allowed me to share my knowlege with my team mates and help to deliver a successful outcome.
+
+#### Team Player
+
+Collaborating is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furthering their understanding if necessary.
+
+
 ## Work Experience
 
 **Coyne & Co. Surveyors** (2016-2020)  
@@ -39,49 +84,6 @@ _Sales Associate_
 **Freelance Musician** (2010-present) 
 
 - Being a freelance musician requires vast amounts of drive and resiliance and commitment. Though it is vital to master your instrument(s) and creativity skills, it is equally important to develop an ability to think on your feet and react to last minute changes. You must also be able to learn quickly and to seemlessly enter a group dynamic and be ready to not only contribute, but listen and adapt.
-
-## Skills
-
-**Tech Realated Skills** :<i> Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Phaser 3, Python , Git, Debugging, TDD, OOP</i>
-
-#### Creative
-
-I love to incoporate creativity into my work whenever it is needed. Whether it is an 'out of the box' solution to a tricky challenge or adding an exciting element to my code to enhance the user experience, I have been told that I excel in applying the intricate touches that can make a project come to life. An example of this can be heard in <i>A Pinkman's Journey</i>. Though not purely a programming issue, I composed original music as well as a variety of sound effects that would be triggered depending on how the game was played. This brought a much fuller overall experience to the final project.
-
-#### Self-Motivated
-
-Makers Academy is a highly selective 16 week intensive coding bootcamp which has a large focus on self-directed learning. This made me an ideal candidate as I enjoy getting stuck into learning new skills to a high level. From my first lines of code I knew this was something I wanted to pursue professionally. As such I began completing a number of online courses, workbooks and spending most of my free time studying code. This attitude has helped me to manage the various tasks and challenges of the course. 
-
-#### Quick-Learner
-
-My degree required that I learn a variety of musical material, new techniques, music technology and occasionally instruments in a very short time frame. I believe that I have maintained the ability to learn quickly and demonstrated this throughout Makers. Our second Project, <i>MyAce</i>, was built using Ruby on Rails. The time-frame for this project was approximatley 10 days and our team had no prior experience using the framework. I am pleased to say that I was able to pick Rails up with realtivle ease. This allowed me to share my knowlege with my team mates and help to deliver a successful outcome.
-
-#### Team Player
-
-Collaborating is an essential skill that all musicians need to master. It requires sharing ideas, listening and contributing as well as the ability to understand the needs of those around you. During my time at Makers Academy I was able to translate these skills to a number of situations. Many of our projects would be as part of a larger group. I was able to clearly explain my ideas, lead when required as well as assist my fellow developers in furthering their understanding if necessary.
-
-## Education
-
-#### Makers Academy (November 2021 - March 2022)
-
-Makers Academy is a highly selective coding bootcamp who's aim is to produce self-sufficient and driven programmers. During the 16 weeks we covered:
-
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, Phaser3
-- RSpec, Capybara, Jest
-
-#### The Institue of Contemporary Music Performance (2008-2012)
-
-- BMus(Hons) Popular Music Performance, 2:1
-- Rockschool Level 6 Diploma in Music Teaching 
-- Higher Diploma in Popular Music Performance
-
-#### Coding Certifications (2021)
-
-- PCAP: Programming Essentials in Python Certification (Python Institute)
-- The Complete Python Course | Learn Python by Doing (Udemy)
-- Scientific Computing with Python (freecodecamp)
 
 
 ## Hobbies
